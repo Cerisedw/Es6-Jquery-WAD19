@@ -15,6 +15,7 @@ module.exports = {
   rules: {
     'no-restricted-syntax': 0,
     'no-console': 0,
+    'no-var': 1,
     'no-plusplus': 0,
     'vars-on-top': 0,
     'func-names': 0,
